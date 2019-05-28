@@ -7,7 +7,7 @@ Military Drop Ship, can carry 20 people on the lower floor and 5 crew in the upp
 Cargo bay can carry vehicles
 
 ## What Version was it tested in
-PU 3.5.x
+PU 3.5.0
 
 ## YouTube Link
 {link}
@@ -24,6 +24,7 @@ PU 3.5.x
 * For it's size, it's very maneuverable
 * Size doors with mini-gun makes it a combat drop ship
 * Surprised there is no co-pilot seat 
+* 
 
 # What Vehicles Can if fit?
 
