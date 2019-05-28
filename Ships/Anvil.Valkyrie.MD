@@ -13,9 +13,9 @@ PU 3.5.x
 {link}
 
 # Ship Data
-|Accel: 0 to 1100|360 Rotation|Olisar to Huston|Overheat|
-|:---------------|:-----------|:---------------|:-------|
-|Value 1|Value 2|Value 3|Value 4|
+|Accel: 0 to 1100|1100 to 0|Olisar to Huston|Overheats to Huston|Leaving Huston Atmo (45'd)|
+|:---------------|:--------|:---------------|:------------------|:-------------------------|
+|23.4sec|1min 17sec|8min 31sec|1 about 5mins||4min 20sec|
 
 # General Thoughts
 * For it's size, it's very maneuverable
