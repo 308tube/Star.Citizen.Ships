@@ -13,9 +13,9 @@ PU 3.5.0
 {link}
 
 # Ship Data
-|Accel: 0 to 1100|1100 to 0|Olisar to Huston|Overheats to Huston|Leaving Huston Atmo (45'd)|
-|:---------------|:--------|:---------------|:------------------|:-------------------------|
-|23.4sec|1min 17sec|8min 31sec|1|4min 20sec|
+|Version|Accel: 0 to 1100|1100 to 0|Olisar to Huston|Overheats to Huston|Leaving Huston Atmo (45'd)|
+|:------|:---------------|:--------|:---------------|:------------------|:-------------------------|
+|PU 3.5.0|23.4sec|1min 17sec|8min 31sec|1|4min 20sec|
 
 ## Engine Overheat - default ship settings
 1. 1st overheat at about 5 minutes of QT travel
